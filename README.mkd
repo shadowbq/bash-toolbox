@@ -57,7 +57,7 @@ INFORMATION
 The Bash-Toolbox is hosted on following servers:
 
 * [Github][github bash-toolbox].
-* [Codaset][codaset bash-toolbox].
+
 
 AUTHOR
 ------
@@ -87,18 +87,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-[Bash]: http://www.case.edu/php/chet/bash/bashtop.html
+[Bash]: http://www.gnu.org/software/bash/
   "Bourne Again SHell"
 
-[github bash-toolbox]: http://github.com/codigorama/bash-toolbox
+[github bash-toolbox]: http://github.com/shadowbq/bash-toolbox
   "Bash-Toolbox hosted on Github"
 
-[github downloads]: http://github.com/codigorama/bash-toolbox/downloads
+[github downloads]: http://github.com/shadowbq/bash-toolbox/downloads
   "Github - Bash-Toolbox downloads"
 
-[codaset bash-toolbox]: http://codaset.com/codigorama/bash-toolbox
-  "Bash-Toolbox hosted on Codaset"
-
-[manual page index]: manpages/bash-toolbox.7.html
+[manual page index]: http://github.com/shadowbq/bash-toolbox/wiki/bash-toolbox.7.html
   "Bash-Toolbox Manpages Index"
 
