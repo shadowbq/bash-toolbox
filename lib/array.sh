@@ -1,4 +1,3 @@
-
 #3 array(3) -- Bash-Toolbox Array
 #3 ==============================
 #3
@@ -20,14 +19,14 @@
 #3
 #3     array <array-name>
 #3
-#3 The `array` function will be create dinamically functions that will help
-#3 handle the array variable. This functions are:
+#3 The `array` function dynamically creates functions that will help
+#3 handle the array variable. These functions are:
 #3
 #3 * `array[*]`:
-#3    Returns all itens from array, like `${array[*]}`.
+#3    Returns all items from array, like `${array[*]}`.
 #3
 #3 * `array[@]`:
-#3    Returns all itens from array, like `${array[@]}`.
+#3    Returns all items from array, like `${array[@]}`.
 #3
 #3 * `array[+]`:
 #3    Add a new item, like `array=(${array[@]} <new-item>)`.
@@ -87,7 +86,7 @@ function array {
               fi
             }'
           ) ;;
-      q)  # Function search patterns in itens
+      q)  # Function search patterns in items
           functions=("${functions[@]}" '
             function @array[?] {
               for i in ${!@array[@]}; do
