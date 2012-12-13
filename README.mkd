@@ -96,6 +96,5 @@ THE SOFTWARE.
 [github downloads]: http://github.com/shadowbq/bash-toolbox/downloads
   "Github - Bash-Toolbox downloads"
 
-[manual page index]: http://github.com/shadowbq/bash-toolbox/wiki/bash-toolbox.7.html
-  "Bash-Toolbox Manpages Index"
+[manual page index]: http://github.com/shadowbq/bash-toolbox/wiki/
 
